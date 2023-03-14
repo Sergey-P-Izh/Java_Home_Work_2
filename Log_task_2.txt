@@ -1,0 +1,29 @@
+PS C:\Users\Asus\Desktop\Java\Java_Home_Work_2>  & 'C:\Program Files\Java\jre1.8.0_361\bin\java.exe' '-cp' 'C:\Users\Asus\AppData\Roaming\Code\User\workspaceStorage\8710c2fc4756d83df25d8238e69af7fe\redhat.java\jdt_ws\Java_Home_Work_2_d667c6a1\bin' 'I_task_2'
+PS C:\Users\Asus\Desktop\Java\Java_Home_Work_2>  c:; cd 'c:\Users\Asus\Desktop\Java\Java_Home_Work_2'; & 'C:\Program Files\Java\jre1.8.0_361\bin\java.exe' '-cp' 'C:\Users\Asus\AppData\Roaming\Code\User\workspaceStorage\8710c2fc4756d83df25d8238e69af7fe\redhat.java\jdt_ws\Java_Home_Work_2_d667c6a1\bin' 'I_task_2'
+[64, 42, 73, 41[42, 64, 41, 73[42, 41, 64, 73[41, 42, 64, 73[41, 42, 64, 73PS C:\Users\Asus\Desktop\Java\Java_Home_Work_2>  c:; cd 'c:\Users\Asus\Desktop\Java\Java_Home_Work_2'; & 'C:\Program Files\Java\jre1.8.0_361\bin\java.exe' '-cp' 'C:\Users\Asus\AppData\Roaming\Code\User\workspaceStorage\8710c2fc4756d83df25d8238e69af7fe\redhat.java\jdt_ws\Java_Home_Work_2_d667c6a1\bin' 'I_task_2'
+*64, 42, 73, 41*42, 64, 41, 73*42, 41, 64, 73*41, 42, 64, 73*41, 42, 64, 73PS C:\Users\Asus\Desktop\Java\Java_Home_Work_2>  c:; cd 'c:\Users\Asus\Desktop\Java\Java_Home_Work_2'; & 'C:\Program Files\Java\jre1.8.0_361\bin\java.exe' '-cp' 'C:\Users\Asus\AppData\Roaming\Code\User\workspaceStorage\8710c2fc4756d83df25d8238e69af7fe\redhat.java\jdt_ws\Java_Home_Work_2_d667c6a1\bin' 'I_task_2'
+{}64, 42, 73, 41{}42, 64, 41, 73{}42, 41, 64, 73{}41, 42, 64, 73{}41, 42, 64, 73PS C:\Users\Asus\Desktop\Java\Java_Home_Work_2>  c:; cd 'c:\Users\Asus\Desktop\Java\Java_Home_Work_2'; & 'C:\Program Files\Java\jre1.8.0_361\bin\java.exe' '-cp' 'C:\Users\Asus\AppData\Roaming\Code\User\workspaceStorage\8710c2fc4756d83df25d8238e69af7fe\redhat.java\jdt_ws\Java_Home_Work_2_d667c6a1\bin' 'I_task_2'
+    64, 42, 73, 41    42, 64, 41, 73    42, 41, 64, 73    41, 42, 64, 73    41, 42, 64, 73PS C:\Users\Asus\Desktop\Java\Java_Home_Work_2>  c:; cd 'c:\Users\Asus\Desktop\Java\Java_Home_Work_2'; & 'C:\Program Files\Java\jre1.8.0_361\bin\java.exe' '-cp' 'C:\Users\Asus\AppData\Roaming\Code\User\workspaceStorage\8710c2fc4756d83df25d8238e69af7fe\redhat.java\jdt_ws\Java_Home_Work_2_d667c6a1\bin' 'I_task_2'
+|64, 42, 73, 41|42, 64, 41, 73|42, 41, 64, 73|41, 42, 64, 73|41, 42, 64, 73PS C:\Users\Asus\Desktop\Java\Java_Home_Work_2>  c:; cd 'c:\Users\Asus\Desktop\Java\Java_Home_Work_2'; & 'C:\Program Files\Java\jre1.8.0_361\bin\java.exe' '-cp' 'C:\Users\Asus\AppData\Roaming\Code\User\workspaceStorage\8710c2fc4756d83df25d8238e69af7fe\redhat.java\jdt_ws\Java_Home_Work_2_d667c6a1\bin' 'I_task_2'
+ | 64, 42, 73, 41 | 42, 64, 41, 73 | 42, 41, 64, 73 | 41, 42, 64, 73 | 41, 42, 64, 73PS C:\Users\Asus\Desktop\Java\Java_Home_Work_2>  c:; cd 'c:\Users\Asus\Desktop\Java\Java_Home_Work_2'; & 'C:\Program Files\Java\jre1.8.0_361\bin\java.exe' '-cp' 'C:\Users\Asus\AppData\Roaming\Code\User\workspaceStorage\8710c2fc4756d83df25d8238e69af7fe\redhat.java\jdt_ws\Java_Home_Work_2_d667c6a1\bin' 'I_task_2'
+
+ 64, 42, 73, 41
+ 42, 64, 41, 73
+ 42, 41, 64, 73
+ 41, 42, 64, 73
+ 41, 42, 64, 73PS C:\Users\Asus\Desktop\Java\Java_Home_Work_2>  c:; cd 'c:\Users\Asus\Desktop\Java\Java_Home_Work_2'; & 'C:\Program Files\Java\jre1.8.0_361\bin\java.exe' '-cp' 'C:\Users\Asus\AppData\Roaming\Code\User\workspaceStorage\8710c2fc4756d83df25d8238e69af7fe\redhat.java\jdt_ws\Java_Home_Work_2_d667c6a1\bin' 'I_task_2'
+
+ 64, 42, 73, 41
+ 42, 64, 41, 73
+ 42, 41, 64, 73
+PS C:\Users\Asus\Desktop\Java\Java_Home_Work_2>  c:; cd 'c:\Users\Asus\Desktop\Java\Java_Home_Work_2'; & 'C:\Program Files\Java\jre1.8.0_361\bin\java.exe' '-cp' 'C:\Users\Asus\AppData\Roaming\Code\User\workspaceStorage\8710c2fc4756d83df25d8238e69af7fe\redhat.java\jdt_ws\Java_Home_Work_2_d667c6a1\bin' 'I_task_2'
+üð¨ 14, 2023 11:03:58 PM I_task_2 main
+INFO: Tõ¸ªþòþõ ûþóø¨þòðýøõ
+üð¨ 14, 2023 11:03:58 PM I_task_2 main
+INFO: Tõ¸ªþòþõ ûþóø¨þòðýøõ
+
+ 64, 42, 73, 41
+ 42, 64, 41, 73
+ 42, 41, 64, 73
+ 41, 42, 64, 73
+ 41, 42, 64, 73PS C:\Users\Asus\Desktop\Java\Java_Home_Work_2>
